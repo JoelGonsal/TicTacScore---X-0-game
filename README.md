@@ -64,21 +64,10 @@ O | X |
 
 
 
-Recommended project structure:
+<img width="815" height="782" alt="Screenshot 2026-08-12 at 10 15 41 PM" src="https://github.com/user-attachments/assets/4f54e8f2-2281-4789-a508-55ac2c5285c7" />
+<img width="815" height="782" alt="Screenshot 2026-08-12 at 10 16 43 PM" src="https://github.com/user-attachments/assets/3a4126be-8ada-449d-b9ad-91858963c847" />
 
-```text
-TicTacScore/
-│
-├── index.html
-├── style.css
-├── app.js
-├── screenshots/
-│   ├── game.png
-│   ├── winner.png
-│   └── scoreboard.png
-│
-└── README.md
-```
+
 
 ## 🧠 Game Logic
 
